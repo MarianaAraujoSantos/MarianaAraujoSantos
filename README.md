@@ -27,8 +27,6 @@
   
   ## Rede Social
   <div>
-   <a href="https://www.instagram.com/santos_mra/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"> href="https://www.linkedin.com/in/mariana-ara%C3%BAjo-96a959217/"  </a>
+   <a href="https://www.instagram.com/santos_mra/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
-  <div>
-    <a href="https://www.linkedin.com/in/mariana-ara%C3%BAjo-96a959217/" 
-       </div>
+ 
